@@ -62,6 +62,6 @@ The Bad:
 
 ## Conclusion  
 For me ease of use is the most important thing, when it comes to choosing a framework. As I lack experience in working with a framework.
-After reading [this](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi) article i am more inclined to 
+After reading [this](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi) article I am more inclined to 
 choose the one with the biggest library of open source code. The framework where the need to develop is less then with the others is 
 more interesting to me at this moment. So express seems to be the one I will most likely choose.
