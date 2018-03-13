@@ -1,8 +1,11 @@
 # Think like a programmer
 * Choose database
+* install .env!!!!
+* Find graphical user interface for sql
 * Check support / data-types database / documentation
 * Think about database requirements
 * Npm install database
+* Think about what kind of data you need in the database
 * Create database
     * Setup database tables
     * Setup database rows
@@ -13,7 +16,7 @@
     * Get table information
     * Get row information
 * Rewrite your own code
-* install .env!!!!
+
 
 
 
