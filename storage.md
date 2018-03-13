@@ -12,8 +12,8 @@
 * Make connection from node to SQL
     * Get table information
     * Get row information
-* Use information in shelter 
-    * Display information
+* Rewrite your own code
+* install .env!!!!
 
 
 
